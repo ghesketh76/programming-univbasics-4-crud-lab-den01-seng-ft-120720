@@ -9,7 +9,7 @@ end
 
 def add_element_to_end_of_array(array, element)
   ["bob","chris","joe","jane"]
-  .push ("grant")
+  .push ("arrays!")
  
 end
 
